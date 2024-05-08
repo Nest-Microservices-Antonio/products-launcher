@@ -1,7 +1,3 @@
-
-
-
-
 ## Dev
 
 1. Clonar el repositorio
